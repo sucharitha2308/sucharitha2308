@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sucharitha Abburi
-## A Passionate Cinematic Storyteller from SRM University, AP
+## A Passionate Computer Science Enthusiast from Amaravati, India
 
-### Telling Stories Through Frames and Scripts 🎬
+### Code Connected... 🤝 <img src="https://img.shields.io/badge/-hola-black?style=flat-square"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/S-red?style=flat-square&labelColor=red" />
@@ -22,65 +22,68 @@
 
 - 🎓 B.Tech CSE student at **SRM University, AP** (2023–2027)  
 - 📍 Based in **Amaravati**, India  
-- 🧠 Passionate about:  
-  - 🎥 Directing short films and crafting original stories  
-  - 📝 Building a creative community through the Cinemates Club  
+- 🧠 Currently working on:  
+  - 🤖 *Chess with AI* (Python)  
+  - 📝 *Automated Resume Screener* (Web Technologies)  
 
-- 🌐 Email: **sucharthhaabburi3@gmail.com**  
-- 📞 Phone: **+1 7722344699**  
-- 💬 Ask me about **storytelling, film direction, scriptwriting, and creative collaboration**
-
----
-
-## 🎬 Cinematic Journey
-
-### Short Film Productions  
-I have directed three short films, each a step in my growth as a filmmaker. These projects taught me how to manage sets, direct actors, and tell stories under pressure. Despite imperfections, each film reflects my dedication to crafting narratives that resonate with audiences.  
-- **Key Learnings**: Collaboration, set management, and experimenting with diverse narrative styles.  
-- **Goal**: To create impactful films that evoke emotions and spark meaningful conversations.
-
-### Original Storywriting  
-Storytelling is at the heart of my work. I write original stories that explore human emotions, connections, and experiences. My aim is to create narratives that connect deeply with audiences and inspire thought.  
-- **Focus**: Crafting unique, thought-provoking stories.  
-- **Vision**: Encouraging originality and fostering creativity in others through the Cinemates Club.
+- 💬 Ask me about **HTML, CSS, JS, Python, DBMS, and Web Projects**  
+- 📫 Email me at: **sucharthhaabburi3@gmail.com**  
+- 📊 CGPA: **7.26**
 
 ---
 
-## 🌟 Vision for Cinemates Club
+## 💼 Projects
 
-As an aspiring Co-Convener of the Cinemates Club at SRM University, AP, I aim to:  
-- Create a vibrant space for budding filmmakers and writers.  
-- Organize workshops on scriptwriting, direction, and editing.  
-- Curate film screenings to promote appreciation of diverse genres and storytelling techniques.  
-- Encourage original storytelling and build a supportive network of cinema lovers.
+### 🔐 ATM Machine System  
+A full ATM simulation software with:  
+- PIN-based secure login  
+- Balance inquiry, deposits, and withdrawals  
+- Admin dashboard for cash refill and monitoring  
+
+### 🌍 Divine Discoveries  
+- Informational site about temples & tourist places  
+- Temple timings, nearby attractions, and location data  
+
+### 🚉 Train Ticket Reservation System  
+- Web platform for ticket booking and cancellation  
+- Secure payment and admin features  
+
+### 🤖 Chess with AI  
+- A Python-based chess game with an AI opponent  
+- Features move validation and difficulty levels  
+
+### 📝 Automated Resume Screener  
+- Web-based tool to filter resumes based on skills and job requirements  
+- Integrates web technologies for efficient processing  
 
 ---
 
 ## 🧠 Skills
 
-**Creative Skills**  
-![Storywriting](https://img.shields.io/badge/Storywriting-FF6F61?style=for-the-badge)  
-![Film Direction](https://img.shields.io/badge/Film%20Direction-6B7280?style=for-the-badge)  
-![Scriptwriting](https://img.shields.io/badge/Scriptwriting-FFD700?style=for-the-badge)  
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-4CAF50?style=for-the-badge)  
-
-**Technical Skills**  
-![Basic HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white)  
-![Basic CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)  
+**Languages**  
+![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-**Tools**  
-![Video Editing Tools](https://img.shields.io/badge/Video%20Editing-323330?style=for-the-badge)  
-![MS Office](https://img.shields.io/badge/MS%20Office-217346?style=for-the-badge)  
+**Tools & Tech**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Browser Dev Tools](https://img.shields.io/badge/Browser%20Dev%20Tools-323330?style=for-the-badge)  
 
 ---
 
-## 💡 Creative Initiatives
+## 📈 GitHub Stats
 
-- **Workshops**: Hands-on sessions on filmmaking aspects like scriptwriting, direction, balance and editing to build practical skills.  
-- **Film Screenings**: Curated screenings to analyze storytelling techniques, production styles, and cinematic elements.  
-- **Storywriting Contests**: Platforms to encourage club members to share their unique voices and narratives.  
-- **Community Building**: Fostering a space where creativity thrives, and members can experiment with ideas freely.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh939s&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh939s&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh939s&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -90,9 +93,3 @@ As an aspiring Co-Convener of the Cinemates Club at SRM University, AP, I aim to
   <a href="mailto:sucharthhaabburi3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sucharitha-abburi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
-## 🎥 Closing Thoughts
-
-Cinema is my purpose, and I’m driven by a love for storytelling and a hunger to learn. I bring creativity, direction experience, and a collaborative spirit to inspire others. Let’s make magic on screen—together!
