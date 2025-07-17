@@ -26,7 +26,8 @@
   - 🎥 Directing short films and crafting original stories  
   - 📝 Building a creative community through the Cinemates Club  
 
-- 🌐 Email: **sucharitha_abburi@srmap.edu.in**  
+- 🌐 Email: **sucharthhaabburi3@gmail.com**  
+- 📞 Phone: **+1 7722344699**  
 - 💬 Ask me about **storytelling, film direction, scriptwriting, and creative collaboration**
 
 ---
@@ -76,7 +77,7 @@ As an aspiring Co-Convener of the Cinemates Club at SRM University, AP, I aim to
 
 ## 💡 Creative Initiatives
 
-- **Workshops**: Hands-on sessions on filmmaking aspects like scriptwriting, direction, and editing to build practical skills.  
+- **Workshops**: Hands-on sessions on filmmaking aspects like scriptwriting, direction, balance and editing to build practical skills.  
 - **Film Screenings**: Curated screenings to analyze storytelling techniques, production styles, and cinematic elements.  
 - **Storywriting Contests**: Platforms to encourage club members to share their unique voices and narratives.  
 - **Community Building**: Fostering a space where creativity thrives, and members can experiment with ideas freely.
@@ -86,7 +87,7 @@ As an aspiring Co-Convener of the Cinemates Club at SRM University, AP, I aim to
 ## 🤝 Let's Connect
 
 <p>
-  <a href="mailto:sucharitha_abburi@srmap.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sucharthhaabburi3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sucharitha-abburi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
