@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Python, DBMS, and Web Projects**  
 - 📫 Email me at: **sucharthhaabburi3@gmail.com**  
-- 📊 CGPA: **7.26**
+- 📊 CGPA: **7.81**
 
 ---
 
